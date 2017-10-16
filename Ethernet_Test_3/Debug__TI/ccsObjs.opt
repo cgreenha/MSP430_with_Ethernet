@@ -1,0 +1,1 @@
+"./cs8900.obj" "./easyweb.obj" "./tcpip.obj" "../lnk_msp430f149.cmd" -llibc.a 

@@ -1,0 +1,1 @@
+"./cs8900.o" "./easyweb.o" "./tcpip.o" -T"../msp430f149.ld" -Wl,--start-group -lgcc -lc -Wl,--end-group 
